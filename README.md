@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/B4TT3RY)
+
+<div align=center>
+  
+![Kotlin](https://img.shields.io/badge/-Kotlin-0095d5?style=flat-square&logo=Kotlin&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=TypeScript&logoColor=white) ![React](https://img.shields.io/badge/-React-61dafb?style=flat-square&logo=React&logoColor=white)
+
+</div>
 <!--
 **B4TT3RY/B4TT3RY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
